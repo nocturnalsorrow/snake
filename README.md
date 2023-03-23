@@ -1,5 +1,5 @@
 # snake
-Windowed snake game.
+This is the simple windowed snake game.
 
 Use arrows to control the snake.
 
@@ -8,3 +8,5 @@ dots = 3;
 
 To change snake speed change this property in initGame method:
 timer = new Timer(100,this);
+
+enjoy ^^
